@@ -1,0 +1,27 @@
+_repo: Adventures-in-New-Guinea_17694
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chalmers, James
+    birthdate: 1841
+    deathdate: 1901
+    gutenberg_agent_id: '7544'
+    url: http://www.gutenberg.org/2009/agents/7544
+description: ''
+gutenberg_issued: '2006-02-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17694'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DU'
+- !lcsh 'New Guinea -- Description and travel'
+- !lcsh 'Missions -- New Guinea'
+title: Adventures in New Guinea
+url: http://www.gutenberg.org/ebooks/17694
